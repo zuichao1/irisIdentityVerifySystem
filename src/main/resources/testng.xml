@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="xxxSystem">
+	<test name="testCaseSuite1" preserve-order="true">
+		<!-- 登录地址、用户名、密码、注册人员数 -->
+		<parameter name="url" value="http://10.2.1.224:25668"/>
+		<parameter name="username" value="sunjian1"/>
+		<parameter name="password" value="123456"/>
+		<parameter name="num" value="1"/><!-- 无法采集 -->
+		<parameter name="num2" value="1"/>
+
+		<classes>
+			<class name="com.sunjian.testCases.LoginTest">
+				<methods><!-- include  exclude -->
+					<include name="testLoginFailed"/>
+					<include name="testLogin"/>
+				</methods>
+			</class>
+			<class name="com.sunjian.testCases.HmcjTest">
+				<methods>
+					<exclude name="testWfcjWay"/>
+					<exclude name="testHmcjWay"/>
+				</methods>
+			</class>
+			<class name="com.sunjian.testCases.HmsbTest">
+				<methods>
+					<exclude name="testHmsb"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+	<listeners>
+    	<listener class-name="com.sunjian.utils.ExtentTestNGIReporterListener" />
+    </listeners>
+   
+</suite>

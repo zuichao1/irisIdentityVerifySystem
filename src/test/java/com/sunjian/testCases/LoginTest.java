@@ -35,7 +35,6 @@ public class LoginTest {
 			return;
 		}
 	}
-	
 	@Parameters({"url"})
 	@Test(groups="login",description="错误登录测试",priority=1)
 	public void testLoginFailed(String url) throws Exception{

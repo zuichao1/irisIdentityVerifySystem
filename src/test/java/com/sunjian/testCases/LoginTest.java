@@ -12,7 +12,6 @@ import com.sunjian.launchs.BrowsersType;
 import com.sunjian.utils.MyLog;
 
 public class LoginTest {
-
 	private LoginImpl login;
 	
 	@BeforeClass
@@ -20,7 +19,6 @@ public class LoginTest {
 		new Browsers(BrowsersType.ie);
 		MyLog.log("打开浏览器了...");
 	}
-	
 	@Parameters({"url","username","password"})
 	@Test(groups="login",description="正确登录测试",priority=2)
 	public void testLogin(String url,String username,String password) throws Exception{

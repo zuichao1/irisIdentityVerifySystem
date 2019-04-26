@@ -13,7 +13,7 @@ import com.sunjian.utils.MyLog;
 
 public class LoginTest {
 	private LoginImpl login;
-	
+
 	@BeforeClass
 	public void beforeMethod(){
 		new Browsers(BrowsersType.ie);

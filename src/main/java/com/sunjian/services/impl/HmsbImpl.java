@@ -159,7 +159,8 @@ public class HmsbImpl extends HmsbPage implements Hmsb {
 		doSelectMz();
 	}
 	private void doCloseTipsBox(){
-		hyResultBox_qdButton().click();
+		doUseJsClickEelment(hyResultBox_qdButton());
+		MyLog.log("关闭核验结果提示框");
 	}
 	
 	public String getHyTime(){//本次核验耗时

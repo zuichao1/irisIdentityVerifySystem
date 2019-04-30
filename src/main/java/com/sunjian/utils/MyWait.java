@@ -70,7 +70,10 @@ public class MyWait {
 	public static void threadWait(int time) throws Exception{
 		Thread.sleep(time*1000);
 	}
-	
+	public static void millisWait(int time) throws Exception{
+		Thread.sleep(time);
+	}
+
 	/**
 	 * javaScript方式操作页面的元素
 	 * @param driver

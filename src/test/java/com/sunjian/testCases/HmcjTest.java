@@ -17,7 +17,7 @@ public class HmcjTest {
    
 	@Test(groups="hmcj",dependsOnGroups="login",description="无法采集方式测试",priority=1)
 	@Parameters({"num"})
-	public void testWfcjWay(@Optional("1")int num) throws Exception{
+	public void testWfcjWay(int num) throws Exception{
 		MyLog.log("开始测试无法采集方式了。。。");
 		
 		hmcj = new HmcjImpl(Browsers.driver);

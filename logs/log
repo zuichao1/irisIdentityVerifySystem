@@ -1048,3 +1048,609 @@ com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
 [2019-04-25 19:42:42:199] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
 com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
 
+[2019-04-30 09:41:36:011] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 09:41:36:157] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 09:41:41:910] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:41:41:912] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 09:41:44:762] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:41:44:763] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 09:41:47:677] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:41:47:677] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 09:41:50:477] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:41:50:478] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 09:41:53:070] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:41:53:070] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 09:41:55:658] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:41:55:659] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 09:42:01:310] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 09:42:02:996] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 09:42:03:472] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 09:42:03:516] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-04-30 09:44:57:032] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 09:44:57:107] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 09:45:11:753] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:45:11:755] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 09:45:14:780] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:45:14:781] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 09:45:17:711] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:45:17:711] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 09:45:20:303] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:45:20:303] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 09:45:22:860] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:45:22:861] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 09:45:25:437] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:45:25:438] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 09:45:31:245] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 09:45:31:249] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 09:45:52:749] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 09:45:57:111] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:无法采集方式--出错了。。。
+
+[2019-04-30 09:45:58:367] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 09:45:58:392] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 09:45:58:392] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 09:45:58:392] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-04-30 09:45:58:715] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 09:45:58:909] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 09:45:58:992] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-04-30 09:53:04:541] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 09:53:04:615] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 09:53:10:139] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:53:10:141] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 09:53:13:419] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:53:13:420] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 09:53:17:134] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:53:17:134] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 09:53:20:002] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:53:20:002] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 09:53:22:869] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:53:22:870] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 09:53:25:911] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:53:25:912] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 09:53:31:667] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 09:53:31:669] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 09:53:53:496] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 09:54:07:587] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:无法采集方式--出错了。。。
+
+[2019-04-30 09:54:09:191] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 09:54:09:250] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 09:54:09:251] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 09:54:09:251] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-04-30 09:54:09:579] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 09:54:11:111] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 09:54:11:236] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-04-30 09:56:37:986] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 09:56:38:063] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 09:56:52:759] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:56:52:760] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 09:56:55:592] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:56:55:593] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 09:56:58:459] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 09:56:58:459] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 09:57:01:158] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:57:01:158] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 09:57:04:054] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:57:04:054] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 09:57:06:534] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 09:57:06:536] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 09:57:12:268] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 09:57:12:271] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 09:57:33:167] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 09:57:55:682] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:无法采集方式--出错了。。。
+
+[2019-04-30 09:57:56:587] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 09:57:56:616] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 09:57:56:616] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 09:57:56:617] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-04-30 09:57:56:927] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 09:57:57:214] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 09:57:57:263] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-04-30 10:13:58:440] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 10:13:58:515] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 10:14:13:663] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 10:14:13:665] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 10:14:16:799] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 10:14:16:800] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 10:14:19:781] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 10:14:19:781] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 10:14:22:753] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:登录失败forFailedTips测试异常...
+
+[2019-04-30 10:14:23:725] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 10:14:23:751] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 10:14:23:751] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 10:14:23:752] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 10:14:23:753] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:登录失败了...
+
+[2019-04-30 10:14:23:758] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 10:14:23:759] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 10:14:23:760] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 10:14:23:761] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 10:14:24:055] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 10:14:24:297] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 10:14:24:362] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-04-30 10:14:56:208] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 10:14:56:287] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 10:14:59:213] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 10:14:59:215] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 10:15:02:197] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 10:15:02:198] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 10:15:05:133] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 10:15:05:134] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 10:15:08:070] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 10:15:08:071] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 10:15:10:894] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 10:15:10:894] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 10:15:13:751] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 10:15:13:753] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 10:15:19:650] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 10:15:19:654] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 10:15:44:717] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 10:16:05:674] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第2个人员添加完成了
+
+[2019-04-30 10:16:27:126] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第3个人员添加完成了
+
+[2019-04-30 10:16:48:244] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第4个人员添加完成了
+
+[2019-04-30 10:17:09:680] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第5个人员添加完成了
+
+[2019-04-30 10:17:30:807] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第6个人员添加完成了
+
+[2019-04-30 10:17:52:859] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第7个人员添加完成了
+
+[2019-04-30 10:18:14:229] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第8个人员添加完成了
+
+[2019-04-30 10:18:35:324] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第9个人员添加完成了
+
+[2019-04-30 10:18:56:599] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第10个人员添加完成了
+
+[2019-04-30 10:18:56:599] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：10个人员！
+
+[2019-04-30 10:18:58:377] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 10:18:58:775] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 10:18:58:853] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-04-30 17:16:24:208] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 17:16:24:534] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 17:16:42:084] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:16:42:086] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 17:16:44:581] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:16:44:582] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 17:16:47:015] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:16:47:015] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 17:16:49:431] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:16:49:432] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 17:16:51:858] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:16:51:858] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 17:16:54:252] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:16:54:253] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 17:16:59:677] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 17:16:59:679] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 17:17:23:080] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 17:17:23:080] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-04-30 17:17:23:084] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:开始测试虹膜采集方式了。。。
+
+[2019-04-30 17:17:33:391] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->whetherOrNotReadIdcard----->>:读取身份证信息失败了
+
+[2019-04-30 17:17:36:843] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:虹膜采集方式--出错了。。。
+
+[2019-04-30 17:17:37:754] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 17:17:37:873] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 17:17:37:874] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 17:17:37:874] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:虹膜采集之---正常采集测试完成，本次共添加：0个人员！
+
+[2019-04-30 17:17:37:874] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:开始测试虹膜识别了。。。
+
+[2019-04-30 17:17:38:530] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 17:17:38:805] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 17:17:38:964] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-04-30 17:27:57:722] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 17:27:57:796] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 17:28:03:127] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:28:03:128] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 17:28:05:455] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:28:05:456] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 17:28:07:755] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:28:07:755] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 17:28:09:995] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:28:09:995] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 17:28:12:040] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:28:12:040] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 17:28:14:159] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:28:14:160] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 17:28:19:349] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 17:28:19:352] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 17:28:43:304] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 17:28:43:305] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-04-30 17:28:43:307] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:开始测试虹膜采集方式了。。。
+
+[2019-04-30 17:28:53:619] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->whetherOrNotReadIdcard----->>:读取身份证信息失败了
+
+[2019-04-30 17:29:28:410] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:虹膜采集方式--出错了。。。
+
+[2019-04-30 17:29:29:694] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 17:29:29:723] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 17:29:29:723] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 17:29:29:723] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:虹膜采集之---正常采集测试完成，本次共添加：0个人员！
+
+[2019-04-30 17:29:29:724] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:开始测试虹膜识别了。。。
+
+[2019-04-30 17:29:30:055] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 17:29:30:576] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 17:29:30:654] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+

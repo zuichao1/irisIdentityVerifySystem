@@ -28,17 +28,21 @@ public class HmcjImpl extends HmcjPage implements Hmcj {
 
     public void intoHmcjIframe() throws Exception{//进入虹膜采集界面的iframe
         driver.switchTo().frame(driver.findElement(By.xpath(iframe.getHmcjIframe())));
+        MyLog.log("进入虹膜采集界面");
         MyWait.threadWait(1);
     }
     public void intoKscjIframe() throws Exception{//进入开始采集界面的iframe
         driver.switchTo().frame(driver.findElement(By.xpath(iframe.getKscjIframe())));
+        MyLog.log("进入开始采集界面");
         MyWait.threadWait(1);
     }
     public void backHomeIframe(){//返回主iframe
         driver.switchTo().defaultContent();
+        MyLog.log("返回到主界面");
     }
     public void backParentIframe(){
         driver.switchTo().parentFrame();
+        MyLog.log("返回到上一级界面");
     }
     public boolean kscjIsDisplay(){//判斷开始采集是否顯示
         if (kscj().isDisplayed() || kscj().isEnabled()) {
@@ -49,42 +53,53 @@ public class HmcjImpl extends HmcjPage implements Hmcj {
     }
 
     private void doSelectOneRyfl() throws Exception {//选择一个人员分类
-        MyWait.showTypeWait2(driver, 5, ryfl_button_str());
+//        MyWait.showTypeWait2(driver, 5, ryfl_button_str());
+        MyWait.threadWait(2);
         ryfl_button().click();//点击人员分类的下拉按钮
         MyWait.threadWait(1);
         ryfl().click();
+        MyLog.log("选择一个人员分类");
     }
-    private void doSelectOneZjlx(){//选择一个证件类型
-        MyWait.showTypeWait2(driver, 3, zjlx_button_str());
+    private void doSelectOneZjlx() throws Exception {//选择一个证件类型
+//        MyWait.showTypeWait2(driver, 3, zjlx_button_str());
+        MyWait.threadWait(1);
         zjlx_button().click();
         zjlx().click();
+        MyLog.log("选择一个证件类型");
     }
     private void doInputZjh(){//输入证件号
         //zjh().sendKeys(data.getTestData("zjh", "v1"));
         zjh().clear();
         zjh().sendKeys(UUID.randomUUID().toString());
+        MyLog.log("输入证件号");
     }
     private void doInputXm(){//输入姓名
         xm().sendKeys(data.getTestData("xm","v1"));
+        MyLog.log("输入姓名");
     }
-    private void doSelectOneXb(){//选择一个性别
-        MyWait.showTypeWait2(driver, 3, xb_button_str());
+    private void doSelectOneXb() throws Exception {//选择一个性别
+        //MyWait.showTypeWait2(driver, 3, xb_button_str());
+        MyWait.millisWait(100);
         xb_button().click();
         xb().click();
+        MyLog.log("选择一个性别");
     }
     private void doSelectCsrq(){//选择一个出生日期
         csrq().click();
         csrq().sendKeys(data.getTestData("csrq", "v1"));
+        MyLog.log("选择一个出生日期");
     }
-    private void doSelectOneGj(){//选择一个国籍
-        MyWait.showTypeWait2(driver, 3, gj_button_str());
+    private void doSelectOneGj() throws Exception {//选择一个国籍
+        MyWait.millisWait(100);
         gj_button().click();
         gj().click();
+        MyLog.log("选择一个国籍");
     }
-    private void doSelectOneMz(){//选择一个民族
-        MyWait.showTypeWait2(driver, 3, mz_button_str());
+    private void doSelectOneMz() throws Exception {//选择一个民族
+        MyWait.millisWait(100);
         mz_button().click();
         mz().click();
+        MyLog.log("选择一个民族");
     }
     private void doInputHjdz(){//输入户籍地址
         hjdz().sendKeys(data.getTestData("hjdz", "v1"));
@@ -126,24 +141,27 @@ public class HmcjImpl extends HmcjPage implements Hmcj {
         }
         return flag;
     }
-    private void doWfcjWay(){//选择无法采集
+    private void doWfcjWay() throws Exception {//选择无法采集
         wfcj().click();
-        MyWait.showTypeWait2(driver, 3, wfcj_button_str());
+        MyWait.millisWait(100);
         wfcj_button().click();
+        MyWait.millisWait(100);
         wfcj_select().click();
+        MyLog.log("选择一个无法采集");
     }
     private void doSubmit() throws Exception{//提交
-        if (tj().isDisplayed())
-            tj().click();
-        else{
-            MyWait.threadWait(3);
-            tj().click();
+        MyWait.threadWait(3);
+        if (tj().isDisplayed()) {
+            doUseJsClickEelment(tj());
+            MyLog.log("点击提交按钮");
+        }else{
+            MyLog.log("提交按钮没有发现");
         }
 
     }
     public void doClickQd() throws Exception{//采集成功后，点击确定
         MyWait.threadWait(3);
-        MyWait.showTypeWait2(driver, 5, qd_str());
+        //MyWait.showTypeWait2(driver, 5, qd_str());
         if(qd().isDisplayed() || qd().isEnabled()){
             doUseJsClickEelment(qd());
         }else {
@@ -281,20 +299,12 @@ public class HmcjImpl extends HmcjPage implements Hmcj {
         doStartGather();
         //判断是否正确打开设备，进入采集状态
         MyWait.threadWait(10);
-//		if (!kscj().isDisplayed() || !kscj().isEnabled()) {
         //虹膜采集成功后，点击提交
         backHomeIframe();
         intoHmcjIframe();
         doSubmit();
         //点击确定
         doClickQd();
-//		}else {
-//			MyWait.threadWait(5);
-//			//虹膜采集成功后，点击提交
-//			doSubmit();
-//			//点击确定
-//			doClickQd();
-//		}
     }
 
 }

@@ -44,7 +44,7 @@ public interface Constants {
 	//发送人账号（认证）
 	public static String senderUsername = "sunjian@irisking.com";
 	//发送人密码（认证）
-	public static String senderPassword = "123qwe123qwe";
+	public static String senderPassword = "cronaldo7";
 	/*************************************************************************************/
 	
 	//主题

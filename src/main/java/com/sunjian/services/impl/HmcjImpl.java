@@ -160,7 +160,7 @@ public class HmcjImpl extends HmcjPage implements Hmcj {
 
     }
     public void doClickQd() throws Exception{//采集成功后，点击确定
-        MyWait.threadWait(3);
+        MyWait.threadWait(5);
         //MyWait.showTypeWait2(driver, 5, qd_str());
         if(qd().isDisplayed() || qd().isEnabled()){
             doUseJsClickEelment(qd());

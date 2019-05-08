@@ -13,6 +13,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import java.util.UUID;
+import java.util.logging.Logger;
 
 public class HmcjImpl extends HmcjPage implements Hmcj {
 

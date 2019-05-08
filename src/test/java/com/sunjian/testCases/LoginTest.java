@@ -23,15 +23,15 @@ public class LoginTest {
 	@Test(groups="login",description="正确登录测试",priority=2)
 	public void testLogin(String url,String username,String password) throws Exception{
 		MyLog.log("开始登录了...");
-
+		boolean flag = false;
 		try {
-			Assert.assertEquals(login.doLogin(url,username, password), true);
+			flag = login.doLogin(url,username, password);
 		}catch (Exception e){
 			MyLog.log("登录失败了...");
 			e.printStackTrace();
 			TestComplate.complate();
-			return;
 		}
+		Assert.assertEquals(flag,true);
 	}
 	@Parameters({"url"})
 	@Test(groups="login",description="错误登录测试",priority=1)
@@ -61,7 +61,6 @@ public class LoginTest {
 				MyLog.log("登录失败forEmptyTips测试异常...");
 				e.printStackTrace();
 				TestComplate.complate();
-				return;
 			}
 			Assert.assertEquals(loginBackTips, tips);
 		}
@@ -79,7 +78,6 @@ public class LoginTest {
 				MyLog.log("登录失败forFailedTips测试异常...");
 				e.printStackTrace();
 				TestComplate.complate();
-				return;
 			}
 			Assert.assertEquals(loginBackTips, tips);
 		}

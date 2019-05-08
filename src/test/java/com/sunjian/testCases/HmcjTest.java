@@ -37,11 +37,9 @@ public class HmcjTest {
 			MyLog.log("无法采集方式--出错了。。。");
 			e.printStackTrace();
 			TestComplate.complate();
-			return;
 		} finally {
 			MyLog.log("虹膜采集之---无法采集测试完成，本次共添加："+count+"个人员！");
 		}
-		
 		Assert.assertEquals(count, num);
 	}
 	
@@ -68,11 +66,9 @@ public class HmcjTest {
 			MyLog.log("虹膜采集方式--出错了。。。");
 			e.printStackTrace();
 			TestComplate.complate();
-			return;
 		} finally {
 			MyLog.log("虹膜采集之---正常采集测试完成，本次共添加："+count2+"个人员！");
 		}
-		
 		Assert.assertEquals(count2, num2);
 	}
 }

@@ -1,5 +1,6 @@
 package com.sunjian.utils;
 
+import org.apache.commons.logging.Log;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
@@ -13,7 +14,7 @@ public class MyLog {
 	 */
 	public static void log(String msg){
 		StackTraceElement stackTraceElement = Thread.currentThread().getStackTrace()[2];
-		log.info(stackTraceElement.getClassName()+"----->"+stackTraceElement.getMethodName()+"----->>:"+msg);
+		log.info(stackTraceElement.getClassName()+" -- "+stackTraceElement.getMethodName()+" -- "+stackTraceElement.getLineNumber()+" line -- ◆◆◆ --> "+msg);
 	}
 	
 	/**
@@ -31,12 +32,12 @@ public class MyLog {
 		
 		if (additionalMsg != null) {
 			stackTraceElement = Thread.currentThread().getStackTrace()[2];
-			stringBuffer.append(stackTraceElement.getClassName()+"----->>:"+stackTraceElement.getMethodName()+"\n");
+			stringBuffer.append(stackTraceElement.getClassName()+" ◆◆◆ --> "+stackTraceElement.getMethodName()+"\n");
 			
 			stringBuffer.append(additionalMsg+"\n");
 		}else {
 			stackTraceElement = Thread.currentThread().getStackTrace()[3];
-			stringBuffer.append(stackTraceElement.getClassName()+"----->>:"+stackTraceElement.getMethodName()+"\n");
+			stringBuffer.append(stackTraceElement.getClassName()+" ◆◆◆ --> "+stackTraceElement.getMethodName()+"\n");
 		}
 		
 		StackTraceElement[] stackTraces = e.getStackTrace();
@@ -46,5 +47,4 @@ public class MyLog {
 		}
 		log.warn(stringBuffer.toString());
 	}
-
 }

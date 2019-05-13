@@ -22,13 +22,18 @@ public class TestComplate {
 	}
 
 	private static void clearTestResultFile() {
+		//存放测试报告路径
+		String testReportPath = System.getProperty("user.dir")+"/test-reports";
+		String testReportPathBak = System.getProperty("user.dir")+"/test-reports-bak";
+
 		//src文件
-		File file = new File(System.getProperty("user.dir")+"/test-outputs/testReport.html");
-		File dir = new File(System.getProperty("user.dir")+"/test-outputs");
+		File file = new File(testReportPath+"/testReport.html");
+		//存放测试报告的目录
+		File dir = new File(testReportPath);
 		//备份的目录
-		File newDir = new File(System.getProperty("user.dir")+"/test-outputs-old");
+		File newDir = new File(testReportPathBak);
 		//新文件name
-		String newFileA = "/test-outputs-old/testReport";
+		String newFileA = testReportPathBak+"/testReport";
 		String newFileB = ".html";
 
 		if(file.exists()){
@@ -40,7 +45,7 @@ public class TestComplate {
 			File[] files = newDir.listFiles();
 			int fileNum = files.length;
 			//创建一个新的文件
-			File newFile = new File(System.getProperty("user.dir")+newFileA+(fileNum+1)+newFileB);
+			File newFile = new File(newFileA+(fileNum+1)+newFileB);
 
 			//剪切文件
 			InputStream input = null;

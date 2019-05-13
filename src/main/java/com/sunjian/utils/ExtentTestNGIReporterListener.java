@@ -23,7 +23,7 @@ import com.sunjian.config.Constants;
  */
 public class ExtentTestNGIReporterListener implements IReporter {
 	 //生成的路径以及文件名
-    private static final String OUTPUT_FOLDER = "test-outputs/";
+    private static final String OUTPUT_FOLDER = "test-reports/";
     private static final String FILE_NAME = "testReport.html";
 
     private ExtentReports extent;
@@ -107,7 +107,7 @@ public class ExtentTestNGIReporterListener implements IReporter {
         extent.flush();
 
         /**
-         * 添加一个测试完成后的处理的方法调用
+         * 添加一个测试完成后处理测试报告的方法调用
          */
         TestComplate.complate();
     }

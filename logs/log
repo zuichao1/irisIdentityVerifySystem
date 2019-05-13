@@ -1654,3 +1654,3126 @@ com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
 [2019-04-30 17:29:30:654] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
 com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
 
+[2019-04-30 17:39:10:939] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-04-30 17:39:11:023] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-04-30 17:39:28:283] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:39:28:286] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-04-30 17:39:30:558] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:39:30:559] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-04-30 17:39:32:976] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-04-30 17:39:32:976] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-04-30 17:39:35:212] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:39:35:212] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-04-30 17:39:37:531] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:39:37:532] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-04-30 17:39:39:732] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-04-30 17:39:39:734] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-04-30 17:39:44:997] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-04-30 17:39:45:000] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-04-30 17:39:47:647] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoHmcjIframe----->>:进入虹膜采集界面
+
+[2019-04-30 17:39:54:150] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-04-30 17:39:54:521] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-04-30 17:39:55:949] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-04-30 17:39:56:344] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-04-30 17:39:56:865] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-04-30 17:39:57:385] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-04-30 17:39:57:975] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-04-30 17:39:58:483] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-04-30 17:40:05:136] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-04-30 17:40:08:312] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-04-30 17:40:11:432] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 17:40:11:433] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-04-30 17:40:11:435] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:开始测试虹膜采集方式了。。。
+
+[2019-04-30 17:40:21:698] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->whetherOrNotReadIdcard----->>:读取身份证信息失败了
+
+[2019-04-30 17:40:25:179] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-04-30 17:40:25:570] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-04-30 17:40:27:007] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-04-30 17:40:27:415] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-04-30 17:40:27:858] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-04-30 17:40:28:301] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-04-30 17:40:28:864] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-04-30 17:40:29:380] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-04-30 17:40:37:923] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoKscjIframe----->>:进入开始采集界面
+
+[2019-04-30 17:40:51:032] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->backHomeIframe----->>:返回到主界面
+
+[2019-04-30 17:40:51:126] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoHmcjIframe----->>:进入虹膜采集界面
+
+[2019-04-30 17:40:55:326] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-04-30 17:40:58:454] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:第1个人员添加完成了
+
+[2019-04-30 17:40:58:454] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:虹膜采集之---正常采集测试完成，本次共添加：1个人员！
+
+[2019-04-30 17:40:58:455] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:开始测试虹膜识别了。。。
+
+[2019-04-30 17:41:21:648] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmsbImpl----->doReadOrInputPersonInfo----->>:输入完成了
+
+[2019-04-30 17:41:25:742] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:虹膜识别--出错了...
+
+[2019-04-30 17:41:26:518] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 17:41:26:548] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 17:41:26:549] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-04-30 17:41:26:872] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-04-30 17:41:27:086] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-04-30 17:41:27:176] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-05 16:49:30:476] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-05-05 16:49:30:797] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-05-05 16:49:36:602] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:49:36:604] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-05-05 16:49:39:316] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:49:39:317] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-05-05 16:49:41:914] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:49:41:914] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-05-05 16:49:44:372] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:49:44:372] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-05-05 16:49:46:840] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:49:46:840] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-05-05 16:49:49:394] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:49:49:395] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-05-05 16:49:54:864] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-05-05 16:49:54:867] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-05-05 16:49:57:230] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoHmcjIframe----->>:进入虹膜采集界面
+
+[2019-05-05 16:50:03:707] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:50:04:168] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:50:05:672] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:50:06:196] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:50:06:727] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:50:07:343] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:50:07:974] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:50:08:622] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:50:15:769] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:50:19:027] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:50:22:213] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-05-05 16:50:22:214] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-05-05 16:50:22:217] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:开始测试虹膜采集方式了。。。
+
+[2019-05-05 16:50:30:744] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->whetherOrNotReadIdcard----->>:读取身份证信息失败了
+
+[2019-05-05 16:50:34:367] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:50:34:825] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:50:36:345] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:50:36:869] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:50:37:395] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:50:38:038] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:50:38:716] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:50:39:331] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:50:48:599] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoKscjIframe----->>:进入开始采集界面
+
+[2019-05-05 16:51:01:574] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->backHomeIframe----->>:返回到主界面
+
+[2019-05-05 16:51:01:647] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoHmcjIframe----->>:进入虹膜采集界面
+
+[2019-05-05 16:51:05:870] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:51:09:169] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:虹膜采集方式--出错了。。。
+
+[2019-05-05 16:51:10:398] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-05-05 16:51:10:475] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-05-05 16:51:10:476] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-05-05 16:51:10:476] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testHmcjWay----->>:虹膜采集之---正常采集测试完成，本次共添加：0个人员！
+
+[2019-05-05 16:51:10:477] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:开始测试虹膜识别了。。。
+
+[2019-05-05 16:51:11:069] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-05-05 16:51:11:459] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-05-05 16:51:11:559] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-05 16:52:12:445] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-05-05 16:52:12:520] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-05-05 16:52:18:108] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:52:18:110] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-05-05 16:52:20:928] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:52:20:929] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-05-05 16:52:23:563] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:52:23:563] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-05-05 16:52:26:350] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:52:26:351] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-05-05 16:52:28:903] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:52:28:904] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-05-05 16:52:31:449] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:52:31:452] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-05-05 16:52:36:954] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-05-05 16:52:36:956] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-05-05 16:52:39:373] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoHmcjIframe----->>:进入虹膜采集界面
+
+[2019-05-05 16:52:45:980] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:52:46:460] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:52:48:007] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:52:48:536] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:52:49:118] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:52:49:753] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:52:50:510] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:52:51:162] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:52:58:458] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:53:01:707] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:53:06:858] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-05-05 16:53:06:859] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-05-05 16:53:06:861] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:开始测试虹膜识别了。。。
+
+[2019-05-05 16:53:28:080] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:虹膜识别--出错了...
+
+[2019-05-05 16:53:29:352] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-05-05 16:53:29:400] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-05-05 16:53:29:400] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-05-05 16:53:29:703] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-05-05 16:53:30:009] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-05-05 16:53:30:078] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-05 16:54:38:693] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->beforeMethod----->>:打开浏览器了...
+
+[2019-05-05 16:54:38:767] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：
+
+[2019-05-05 16:54:41:287] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:54:41:289] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：,密码：123456
+
+[2019-05-05 16:54:43:894] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:54:43:895] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：123456,密码：
+
+[2019-05-05 16:54:46:183] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-05 16:54:46:183] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：sunjian1,密码：1naijnus
+
+[2019-05-05 16:54:48:569] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:54:48:569] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：123456
+
+[2019-05-05 16:54:50:873] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:54:50:873] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名：1naijnus,密码：1naijnus
+
+[2019-05-05 16:54:53:070] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLoginFailed----->>:用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-05 16:54:53:071] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest----->testLogin----->>:开始登录了...
+
+[2019-05-05 16:54:58:294] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl----->doLogin----->>:login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-05-05 16:54:58:295] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:开始测试无法采集方式了。。。
+
+[2019-05-05 16:55:00:487] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->intoHmcjIframe----->>:进入虹膜采集界面
+
+[2019-05-05 16:55:07:022] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:55:07:467] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:55:08:914] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:55:09:382] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:55:09:892] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:55:10:421] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:55:11:142] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:55:11:732] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:55:18:681] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:55:21:890] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:55:27:102] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第1个人员添加完成了
+
+[2019-05-05 16:55:32:623] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:55:33:048] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:55:34:647] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:55:35:125] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:55:35:692] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:55:36:254] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:55:36:921] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:55:37:509] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:55:44:575] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:55:47:787] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:55:52:988] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第2个人员添加完成了
+
+[2019-05-05 16:55:58:532] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:55:58:952] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:56:00:464] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:56:00:924] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:56:01:471] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:56:02:007] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:56:02:594] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:56:03:169] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:56:10:127] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:56:13:276] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:56:18:476] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第3个人员添加完成了
+
+[2019-05-05 16:56:24:048] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:56:24:466] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:56:25:892] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:56:26:335] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:56:26:948] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:56:27:510] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:56:28:097] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:56:28:696] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:56:35:697] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:56:38:994] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:56:44:187] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第4个人员添加完成了
+
+[2019-05-05 16:56:49:711] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:56:50:143] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:56:51:651] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:56:52:104] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:56:52:656] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:56:53:185] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:56:53:809] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:56:54:414] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:57:01:448] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:57:04:615] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:57:09:787] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第5个人员添加完成了
+
+[2019-05-05 16:57:15:370] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:57:15:797] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:57:17:296] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:57:17:761] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:57:18:262] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:57:18:789] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:57:19:477] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:57:20:043] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:57:27:137] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:57:30:436] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:57:35:646] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第6个人员添加完成了
+
+[2019-05-05 16:57:41:175] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:57:41:627] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:57:43:103] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:57:43:545] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:57:44:039] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:57:44:603] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:57:45:197] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:57:45:741] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:57:52:794] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:57:55:993] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:58:01:283] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第7个人员添加完成了
+
+[2019-05-05 16:58:06:844] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:58:07:314] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:58:08:901] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:58:09:416] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:58:10:010] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:58:10:608] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:58:11:309] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:58:11:950] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:58:19:253] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:58:22:453] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:58:27:624] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第8个人员添加完成了
+
+[2019-05-05 16:58:33:135] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:58:33:587] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:58:35:078] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:58:35:529] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:58:36:063] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:58:36:626] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:58:37:291] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:58:37:861] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:58:45:122] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:58:48:261] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:58:53:456] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第9个人员添加完成了
+
+[2019-05-05 16:58:58:987] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:58:59:442] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:59:00:936] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:59:01:419] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:59:02:021] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:59:02:612] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:59:03:362] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:59:03:975] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:59:11:255] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:59:14:455] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:59:19:633] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第10个人员添加完成了
+
+[2019-05-05 16:59:25:187] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:59:25:651] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:59:27:272] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:59:27:928] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:59:28:429] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:59:29:003] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:59:29:660] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:59:30:245] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 16:59:37:527] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 16:59:40:744] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 16:59:45:947] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第11个人员添加完成了
+
+[2019-05-05 16:59:51:466] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 16:59:51:921] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 16:59:53:424] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 16:59:53:907] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 16:59:54:573] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 16:59:55:210] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 16:59:55:979] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 16:59:56:624] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:00:03:985] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:00:07:195] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:00:12:385] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第12个人员添加完成了
+
+[2019-05-05 17:00:17:896] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:00:18:374] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:00:19:897] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:00:20:376] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:00:20:981] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:00:21:593] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:00:22:247] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:00:22:811] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:00:30:063] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:00:33:264] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:00:38:446] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第13个人员添加完成了
+
+[2019-05-05 17:00:43:987] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:00:44:447] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:00:45:921] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:00:46:366] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:00:46:970] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:00:47:586] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:00:48:319] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:00:48:952] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:00:56:129] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:00:59:350] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:01:04:539] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第14个人员添加完成了
+
+[2019-05-05 17:01:10:077] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:01:10:525] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:01:12:003] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:01:12:478] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:01:13:078] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:01:13:629] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:01:14:335] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:01:14:946] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:01:22:230] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:01:25:471] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:01:30:670] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第15个人员添加完成了
+
+[2019-05-05 17:01:36:224] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:01:36:692] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:01:38:221] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:01:38:671] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:01:39:195] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:01:39:755] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:01:40:436] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:01:41:061] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:01:48:382] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:01:51:592] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:01:56:749] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第16个人员添加完成了
+
+[2019-05-05 17:02:02:304] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:02:02:762] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:02:04:241] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:02:04:697] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:02:05:381] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:02:05:963] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:02:06:624] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:02:07:178] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:02:14:468] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:02:17:667] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:02:22:823] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第17个人员添加完成了
+
+[2019-05-05 17:02:28:358] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:02:28:825] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:02:30:371] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:02:30:842] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:02:31:408] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:02:31:991] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:02:32:782] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:02:33:364] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:02:40:619] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:02:43:839] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:02:49:028] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第18个人员添加完成了
+
+[2019-05-05 17:02:54:594] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:02:55:038] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:02:56:539] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:02:56:994] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:02:57:561] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:02:58:144] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:02:58:881] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:02:59:428] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:03:06:784] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:03:10:006] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:03:15:237] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第19个人员添加完成了
+
+[2019-05-05 17:03:20:762] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:03:21:243] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:03:22:762] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:03:23:211] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:03:23:745] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:03:24:336] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:03:24:994] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:03:25:646] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:03:32:988] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:03:44:054] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:03:49:299] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第20个人员添加完成了
+
+[2019-05-05 17:03:54:870] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:03:55:309] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:03:56:890] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:03:57:401] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:03:57:975] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:03:58:604] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:03:59:303] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:03:59:917] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:04:07:180] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:04:10:405] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:04:15:668] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第21个人员添加完成了
+
+[2019-05-05 17:04:21:193] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:04:21:686] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:04:23:266] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:04:23:752] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:04:24:260] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:04:24:896] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:04:25:526] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:04:26:117] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:04:33:365] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:04:36:564] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:04:41:773] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第22个人员添加完成了
+
+[2019-05-05 17:04:47:296] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:04:47:767] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:04:49:256] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:04:49:730] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:04:50:362] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:04:50:950] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:04:51:656] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:04:52:400] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:04:59:744] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:05:02:910] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:05:08:066] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第23个人员添加完成了
+
+[2019-05-05 17:05:13:592] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:05:14:057] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:05:15:581] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:05:16:064] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:05:16:573] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:05:17:138] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:05:17:810] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:05:18:410] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:05:25:651] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:05:28:765] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:05:33:943] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第24个人员添加完成了
+
+[2019-05-05 17:05:39:464] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:05:39:945] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:05:41:486] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:05:41:938] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:05:42:487] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:05:43:074] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:05:43:748] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:05:44:430] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:05:51:752] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:05:54:951] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:06:00:168] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第25个人员添加完成了
+
+[2019-05-05 17:06:05:681] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:06:06:142] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:06:07:733] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:06:08:225] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:06:08:858] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:06:09:452] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:06:10:111] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:06:10:714] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:06:18:009] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:06:21:164] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:06:26:329] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第26个人员添加完成了
+
+[2019-05-05 17:06:31:879] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:06:32:345] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:06:33:831] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:06:34:301] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:06:34:879] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:06:35:470] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:06:36:098] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:06:36:772] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:06:43:992] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:06:47:159] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:06:52:334] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第27个人员添加完成了
+
+[2019-05-05 17:06:57:927] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:06:58:410] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:06:59:955] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:07:00:428] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:07:01:020] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:07:01:610] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:07:02:297] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:07:02:893] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:07:10:255] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:07:13:453] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:07:18:702] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第28个人员添加完成了
+
+[2019-05-05 17:07:24:302] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:07:24:791] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:07:26:341] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:07:26:853] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:07:27:431] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:07:28:013] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:07:28:697] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:07:29:279] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:07:36:722] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:07:39:915] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:07:45:134] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第29个人员添加完成了
+
+[2019-05-05 17:07:50:704] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:07:51:195] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:07:52:786] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:07:53:264] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:07:53:821] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:07:54:410] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:07:55:094] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:07:55:720] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:08:03:013] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:08:06:213] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:08:11:400] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第30个人员添加完成了
+
+[2019-05-05 17:08:17:047] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:08:17:536] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:08:19:020] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:08:19:497] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:08:20:110] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:08:20:671] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:08:21:279] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:08:21:876] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:08:29:154] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:08:32:392] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:08:37:594] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第31个人员添加完成了
+
+[2019-05-05 17:08:43:162] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:08:43:644] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:08:45:156] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:08:45:638] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:08:46:330] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:08:46:961] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:08:47:633] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:08:48:293] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:08:55:600] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:08:58:827] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:09:04:100] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第32个人员添加完成了
+
+[2019-05-05 17:09:09:665] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:09:10:125] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:09:11:670] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:09:12:176] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:09:12:712] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:09:13:296] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:09:14:023] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:09:14:607] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:09:21:855] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:09:25:074] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:09:30:294] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第33个人员添加完成了
+
+[2019-05-05 17:09:35:845] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:09:36:323] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:09:37:830] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:09:38:330] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:09:38:929] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:09:39:528] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:09:40:211] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:09:40:873] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneMz----->>:选择一个民族
+
+[2019-05-05 17:09:48:319] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doWfcjWay----->>:选择一个无法采集
+
+[2019-05-05 17:09:51:560] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSubmit----->>:点击提交按钮
+
+[2019-05-05 17:09:56:736] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:第34个人员添加完成了
+
+[2019-05-05 17:10:02:379] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneRyfl----->>:选择一个人员分类
+
+[2019-05-05 17:10:02:872] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputXm----->>:输入姓名
+
+[2019-05-05 17:10:04:469] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneZjlx----->>:选择一个证件类型
+
+[2019-05-05 17:10:04:952] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doInputZjh----->>:输入证件号
+
+[2019-05-05 17:10:05:513] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneXb----->>:选择一个性别
+
+[2019-05-05 17:10:06:126] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectCsrq----->>:选择一个出生日期
+
+[2019-05-05 17:10:06:877] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl----->doSelectOneGj----->>:选择一个国籍
+
+[2019-05-05 17:10:07:326] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:无法采集方式--出错了。。。
+
+[2019-05-05 17:10:08:162] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-05-05 17:10:08:188] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-05-05 17:10:08:189] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:没有生成测试报告文件...
+
+[2019-05-05 17:10:08:189] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest----->testWfcjWay----->>:虹膜采集之---无法采集测试完成，本次共添加：34个人员！
+
+[2019-05-05 17:10:08:190] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest----->testHmsb----->>:开始测试虹膜识别了。。。
+
+[2019-05-05 17:10:08:609] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:退出浏览器了...
+
+[2019-05-05 17:10:08:887] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->complate----->>:邮件发送了...
+
+[2019-05-05 17:10:08:999] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate----->clearTestResultFile----->>:报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-06 14:14:33:574] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> beforeMethod ������ ==> ���������...
+
+[2019-05-06 14:14:33:749] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û�����,���룺
+
+[2019-05-06 14:14:35:955] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 14:14:35:957] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û�����,���룺123456
+
+[2019-05-06 14:14:37:990] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 14:14:37:990] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û�����123456,���룺
+
+[2019-05-06 14:14:40:073] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 14:14:40:074] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û�����sunjian1,���룺1naijnus
+
+[2019-05-06 14:14:42:163] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 14:14:42:164] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û�����1naijnus,���룺123456
+
+[2019-05-06 14:14:44:140] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 14:14:44:141] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û�����1naijnus,���룺1naijnus
+
+[2019-05-06 14:14:46:295] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLoginFailed ������ ==> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 14:14:46:300] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest ������ ==> testLogin ������ ==> ��ʼ��¼��...
+
+[2019-05-06 14:14:51:568] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl ������ ==> doLogin ������ ==> login successfully---->>�û����｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡
+
+[2019-05-06 14:14:51:570] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest ������ ==> testWfcjWay ������ ==> ��ʼ�����޷��ɼ���ʽ�ˡ�����
+
+[2019-05-06 14:14:53:570] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> intoHmcjIframe ������ ==> �����Ĥ�ɼ�����
+
+[2019-05-06 14:15:00:130] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneRyfl ������ ==> ѡ��һ����Ա����
+
+[2019-05-06 14:15:00:541] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doInputXm ������ ==> ��������
+
+[2019-05-06 14:15:01:997] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneZjlx ������ ==> ѡ��һ��֤������
+
+[2019-05-06 14:15:02:372] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doInputZjh ������ ==> ����֤����
+
+[2019-05-06 14:15:02:873] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneXb ������ ==> ѡ��һ���Ա�
+
+[2019-05-06 14:15:03:386] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectCsrq ������ ==> ѡ��һ����������
+
+[2019-05-06 14:15:03:945] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneGj ������ ==> ѡ��һ������
+
+[2019-05-06 14:15:04:482] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneMz ������ ==> ѡ��һ������
+
+[2019-05-06 14:15:11:180] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doWfcjWay ������ ==> ѡ��һ���޷��ɼ�
+
+[2019-05-06 14:15:14:378] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSubmit ������ ==> ����ύ��ť
+
+[2019-05-06 14:15:19:497] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest ������ ==> testWfcjWay ������ ==> ��1����Ա��������
+
+[2019-05-06 14:15:24:964] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneRyfl ������ ==> ѡ��һ����Ա����
+
+[2019-05-06 14:15:25:350] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doInputXm ������ ==> ��������
+
+[2019-05-06 14:15:26:848] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneZjlx ������ ==> ѡ��һ��֤������
+
+[2019-05-06 14:15:27:233] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doInputZjh ������ ==> ����֤����
+
+[2019-05-06 14:15:27:742] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneXb ������ ==> ѡ��һ���Ա�
+
+[2019-05-06 14:15:28:204] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectCsrq ������ ==> ѡ��һ����������
+
+[2019-05-06 14:15:28:814] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneGj ������ ==> ѡ��һ������
+
+[2019-05-06 14:15:29:435] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSelectOneMz ������ ==> ѡ��һ������
+
+[2019-05-06 14:15:36:064] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doWfcjWay ������ ==> ѡ��һ���޷��ɼ�
+
+[2019-05-06 14:15:39:398] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl ������ ==> doSubmit ������ ==> ����ύ��ť
+
+[2019-05-06 14:15:44:732] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest ������ ==> testWfcjWay ������ ==> �޷��ɼ���ʽ--�����ˡ�����
+
+[2019-05-06 14:15:46:011] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate ������ ==> complate ������ ==> �˳��������...
+
+[2019-05-06 14:15:46:050] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate ������ ==> complate ������ ==> �ʼ�������...
+
+[2019-05-06 14:15:46:051] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate ������ ==> clearTestResultFile ������ ==> û�����ɲ��Ա����ļ�...
+
+[2019-05-06 14:15:46:051] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest ������ ==> testWfcjWay ������ ==> ��Ĥ�ɼ�֮---�޷��ɼ�������ɣ����ι���ӣ�1����Ա��
+
+[2019-05-06 14:15:46:052] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest ������ ==> testHmsb ������ ==> ��ʼ���Ժ�Ĥʶ���ˡ�����
+
+[2019-05-06 14:15:46:492] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate ������ ==> complate ������ ==> �˳��������...
+
+[2019-05-06 14:15:46:561] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate ������ ==> complate ������ ==> �ʼ�������...
+
+[2019-05-06 14:15:46:630] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate ������ ==> clearTestResultFile ������ ==> �����Ѿ����㱸�ݵ�test-outputs-oldĿ¼����
+
+[2019-05-06 16:42:11:065] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> beforeMethod >-- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-06 16:42:11:143] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-06 16:42:13:334] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:42:13:336] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：123456
+
+[2019-05-06 16:42:15:800] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:42:15:801] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：123456,密码：
+
+[2019-05-06 16:42:17:886] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:42:17:886] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：sunjian1,密码：1naijnus
+
+[2019-05-06 16:42:20:098] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:42:20:098] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：123456
+
+[2019-05-06 16:42:22:200] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:42:22:200] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：1naijnus
+
+[2019-05-06 16:42:24:317] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:42:24:319] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLogin >-- ◆◆◆ --> 开始登录了...
+
+[2019-05-06 16:43:33:150] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> beforeMethod >-- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-06 16:43:33:222] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-06 16:43:35:408] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:43:35:410] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：123456
+
+[2019-05-06 16:43:37:749] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:43:37:750] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：123456,密码：
+
+[2019-05-06 16:43:39:996] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:43:39:996] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：sunjian1,密码：1naijnus
+
+[2019-05-06 16:43:42:115] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:43:42:115] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：123456
+
+[2019-05-06 16:43:44:417] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:43:44:418] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：1naijnus
+
+[2019-05-06 16:43:46:617] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:43:46:618] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLogin >-- ◆◆◆ --> 开始登录了...
+
+[2019-05-06 16:43:51:788] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl --> doLogin >-- ◆◆◆ --> login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-05-06 16:43:51:790] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 开始测试无法采集方式了。。。
+
+[2019-05-06 16:43:53:598] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> intoHmcjIframe >-- ◆◆◆ --> 进入虹膜采集界面
+
+[2019-05-06 16:44:00:122] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 16:44:00:520] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 16:44:02:020] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 16:44:02:459] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 16:44:02:965] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 16:44:03:501] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 16:44:04:140] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 16:44:04:717] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 16:44:11:692] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 16:44:14:884] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 16:56:43:976] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> beforeMethod >-- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-06 16:56:44:048] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-06 16:56:47:463] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:56:47:465] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：123456
+
+[2019-05-06 16:56:49:772] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:56:49:772] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：123456,密码：
+
+[2019-05-06 16:56:51:885] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 16:56:51:885] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：sunjian1,密码：1naijnus
+
+[2019-05-06 16:56:54:066] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:56:54:067] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：123456
+
+[2019-05-06 16:56:56:250] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:56:56:250] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：1naijnus
+
+[2019-05-06 16:56:58:392] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 16:56:58:393] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLogin >-- ◆◆◆ --> 开始登录了...
+
+[2019-05-06 16:57:03:554] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl --> doLogin >-- ◆◆◆ --> login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-05-06 16:57:03:555] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 开始测试无法采集方式了。。。
+
+[2019-05-06 16:57:05:541] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> intoHmcjIframe >-- ◆◆◆ --> 进入虹膜采集界面
+
+[2019-05-06 16:57:12:047] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 16:57:12:417] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 16:57:13:867] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 16:57:14:253] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 16:57:14:772] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 16:57:15:252] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 16:57:15:872] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 16:57:16:451] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 16:57:23:043] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 16:57:26:294] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 16:57:31:425] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第1个人员添加完成了
+
+[2019-05-06 16:57:36:942] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 16:57:37:322] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 16:57:38:707] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 16:57:39:090] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 16:57:39:626] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 16:57:40:132] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 16:57:40:756] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 16:57:41:276] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 16:57:47:421] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 无法采集方式--出错了。。。
+
+[2019-05-06 16:57:48:653] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-06 16:57:48:687] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-06 16:57:48:687] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> clearTestResultFile >-- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-06 16:57:48:687] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 虹膜采集之---无法采集测试完成，本次共添加：1个人员！
+
+[2019-05-06 16:57:48:688] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest --> testHmsb >-- ◆◆◆ --> 开始测试虹膜识别了。。。
+
+[2019-05-06 16:57:49:004] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-06 16:57:49:203] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-06 16:57:49:296] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> clearTestResultFile >-- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-06 16:58:55:711] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> beforeMethod >-- ������ --> ���������...
+
+[2019-05-06 16:58:55:789] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����,���룺
+
+[2019-05-06 16:58:58:269] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 16:58:58:271] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����,���룺123456
+
+[2019-05-06 16:59:00:636] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 16:59:00:636] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����123456,���룺
+
+[2019-05-06 16:59:03:046] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 16:59:03:047] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����sunjian1,���룺1naijnus
+
+[2019-05-06 16:59:05:449] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 16:59:05:450] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����1naijnus,���룺123456
+
+[2019-05-06 16:59:07:852] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 16:59:07:853] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����1naijnus,���룺1naijnus
+
+[2019-05-06 16:59:10:170] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 16:59:10:174] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLogin >-- ������ --> ��ʼ��¼��...
+
+[2019-05-06 16:59:15:367] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl --> doLogin >-- ������ --> login successfully---->>�û����｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡
+
+[2019-05-06 16:59:15:369] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> ��ʼ�����޷��ɼ���ʽ�ˡ�����
+
+[2019-05-06 16:59:17:450] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> intoHmcjIframe >-- ������ --> �����Ĥ�ɼ�����
+
+[2019-05-06 16:59:24:059] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ������ --> ѡ��һ����Ա����
+
+[2019-05-06 16:59:24:443] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ������ --> ��������
+
+[2019-05-06 16:59:25:891] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ������ --> ѡ��һ��֤������
+
+[2019-05-06 16:59:26:280] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ������ --> ����֤����
+
+[2019-05-06 16:59:26:789] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ������ --> ѡ��һ���Ա�
+
+[2019-05-06 16:59:27:269] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ������ --> ѡ��һ����������
+
+[2019-05-06 16:59:27:906] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ������ --> ѡ��һ������
+
+[2019-05-06 16:59:28:486] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ������ --> ѡ��һ������
+
+[2019-05-06 16:59:35:129] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ������ --> ѡ��һ���޷��ɼ�
+
+[2019-05-06 16:59:38:272] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ������ --> ����ύ��ť
+
+[2019-05-06 16:59:43:495] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> ��1����Ա��������
+
+[2019-05-06 16:59:49:055] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ������ --> ѡ��һ����Ա����
+
+[2019-05-06 16:59:49:435] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ������ --> ��������
+
+[2019-05-06 16:59:50:870] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ������ --> ѡ��һ��֤������
+
+[2019-05-06 16:59:51:249] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ������ --> ����֤����
+
+[2019-05-06 16:59:51:792] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ������ --> ѡ��һ���Ա�
+
+[2019-05-06 16:59:52:264] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ������ --> ѡ��һ����������
+
+[2019-05-06 16:59:52:869] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ������ --> ѡ��һ������
+
+[2019-05-06 16:59:53:408] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ������ --> ѡ��һ������
+
+[2019-05-06 17:00:00:109] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ������ --> ѡ��һ���޷��ɼ�
+
+[2019-05-06 17:00:03:301] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ������ --> ����ύ��ť
+
+[2019-05-06 17:00:08:485] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> ��2����Ա��������
+
+[2019-05-06 17:00:13:838] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> �޷��ɼ���ʽ--�����ˡ�����
+
+[2019-05-06 17:00:14:616] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �˳��������...
+
+[2019-05-06 17:00:14:652] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �ʼ�������...
+
+[2019-05-06 17:00:14:653] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> clearTestResultFile >-- ������ --> û�����ɲ��Ա����ļ�...
+
+[2019-05-06 17:00:14:653] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> ��Ĥ�ɼ�֮---�޷��ɼ�������ɣ����ι���ӣ�2����Ա��
+
+[2019-05-06 17:00:14:654] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest --> testHmsb >-- ������ --> ��ʼ���Ժ�Ĥʶ���ˡ�����
+
+[2019-05-06 17:00:14:991] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �˳��������...
+
+[2019-05-06 17:00:15:175] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �ʼ�������...
+
+[2019-05-06 17:00:15:324] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> clearTestResultFile >-- ������ --> �����Ѿ����㱸�ݵ�test-outputs-oldĿ¼����
+
+[2019-05-06 17:00:51:082] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> beforeMethod >-- ������ --> ���������...
+
+[2019-05-06 17:00:51:157] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����,���룺
+
+[2019-05-06 17:00:53:441] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 17:00:53:443] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����,���룺123456
+
+[2019-05-06 17:00:55:787] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 17:00:55:787] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����123456,���룺
+
+[2019-05-06 17:00:58:190] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���������Ϊ��ʱ��ʾ��������Ϊ��
+
+[2019-05-06 17:00:58:190] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����sunjian1,���룺1naijnus
+
+[2019-05-06 17:01:00:523] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 17:01:00:523] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����1naijnus,���룺123456
+
+[2019-05-06 17:01:02:809] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 17:01:02:809] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û�����1naijnus,���룺1naijnus
+
+[2019-05-06 17:01:05:125] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ������ --> �û���or�������ʱ����ʾ��û������������
+
+[2019-05-06 17:01:05:128] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLogin >-- ������ --> ��ʼ��¼��...
+
+[2019-05-06 17:01:10:412] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl --> doLogin >-- ������ --> login successfully---->>�û����｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡�｡
+
+[2019-05-06 17:01:10:415] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> ��ʼ�����޷��ɼ���ʽ�ˡ�����
+
+[2019-05-06 17:01:12:590] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> intoHmcjIframe >-- ������ --> �����Ĥ�ɼ�����
+
+[2019-05-06 17:01:19:042] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ������ --> ѡ��һ����Ա����
+
+[2019-05-06 17:01:19:404] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ������ --> ��������
+
+[2019-05-06 17:01:20:875] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ������ --> ѡ��һ��֤������
+
+[2019-05-06 17:01:21:266] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ������ --> ����֤����
+
+[2019-05-06 17:01:21:690] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ������ --> ѡ��һ���Ա�
+
+[2019-05-06 17:01:22:187] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ������ --> ѡ��һ����������
+
+[2019-05-06 17:01:22:897] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ������ --> ѡ��һ������
+
+[2019-05-06 17:01:23:475] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ������ --> ѡ��һ������
+
+[2019-05-06 17:01:30:056] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ������ --> ѡ��һ���޷��ɼ�
+
+[2019-05-06 17:01:33:261] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ������ --> ����ύ��ť
+
+[2019-05-06 17:01:38:405] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> ��1����Ա��������
+
+[2019-05-06 17:01:43:875] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ������ --> ѡ��һ����Ա����
+
+[2019-05-06 17:01:44:251] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ������ --> ��������
+
+[2019-05-06 17:01:45:709] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ������ --> ѡ��һ��֤������
+
+[2019-05-06 17:01:46:108] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ������ --> ����֤����
+
+[2019-05-06 17:01:46:637] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ������ --> ѡ��һ���Ա�
+
+[2019-05-06 17:01:47:115] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ������ --> ѡ��һ����������
+
+[2019-05-06 17:01:47:689] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ������ --> ѡ��һ������
+
+[2019-05-06 17:01:48:216] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ������ --> ѡ��һ������
+
+[2019-05-06 17:01:54:324] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> �޷��ɼ���ʽ--�����ˡ�����
+
+[2019-05-06 17:01:55:034] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �˳��������...
+
+[2019-05-06 17:01:55:061] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �ʼ�������...
+
+[2019-05-06 17:01:55:062] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> clearTestResultFile >-- ������ --> û�����ɲ��Ա����ļ�...
+
+[2019-05-06 17:01:55:062] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ������ --> ��Ĥ�ɼ�֮---�޷��ɼ�������ɣ����ι���ӣ�1����Ա��
+
+[2019-05-06 17:01:55:063] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmsbTest --> testHmsb >-- ������ --> ��ʼ���Ժ�Ĥʶ���ˡ�����
+
+[2019-05-06 17:01:55:375] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �˳��������...
+
+[2019-05-06 17:01:55:641] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> complate >-- ������ --> �ʼ�������...
+
+[2019-05-06 17:01:55:708] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.TestComplate --> clearTestResultFile >-- ������ --> �����Ѿ����㱸�ݵ�test-outputs-oldĿ¼����
+
+[2019-05-06 17:02:41:486] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> beforeMethod >-- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-06 17:02:41:556] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-06 17:02:43:792] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 17:02:43:794] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：,密码：123456
+
+[2019-05-06 17:02:46:144] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 17:02:46:145] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：123456,密码：
+
+[2019-05-06 17:02:48:535] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名或密码为空时提示语：必填项不能为空
+
+[2019-05-06 17:02:48:535] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：sunjian1,密码：1naijnus
+
+[2019-05-06 17:02:50:860] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 17:02:50:860] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：123456
+
+[2019-05-06 17:02:53:431] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 17:02:53:431] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名：1naijnus,密码：1naijnus
+
+[2019-05-06 17:02:55:857] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLoginFailed >-- ◆◆◆ --> 用户名or密码错误时的提示语：用户名或密码错误
+
+[2019-05-06 17:02:55:858] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.LoginTest --> testLogin >-- ◆◆◆ --> 开始登录了...
+
+[2019-05-06 17:03:01:236] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.LoginImpl --> doLogin >-- ◆◆◆ --> login successfully---->>用户：孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健孙健
+
+[2019-05-06 17:03:01:238] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 开始测试无法采集方式了。。。
+
+[2019-05-06 17:03:03:381] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> intoHmcjIframe >-- ◆◆◆ --> 进入虹膜采集界面
+
+[2019-05-06 17:03:09:832] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:03:10:211] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:03:11:664] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:03:12:080] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:03:12:553] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:03:13:067] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:03:13:691] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:03:14:314] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:03:20:924] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:03:24:156] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:03:29:305] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第1个人员添加完成了
+
+[2019-05-06 17:03:34:811] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:03:35:189] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:03:36:698] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:03:37:099] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:03:37:524] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:03:38:044] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:03:38:670] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:03:39:196] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:03:45:926] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:03:49:129] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:03:54:269] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第2个人员添加完成了
+
+[2019-05-06 17:03:59:767] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:04:00:187] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:04:01:754] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:04:02:155] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:04:02:740] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:04:03:254] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:04:03:895] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:04:04:435] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:04:11:176] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:04:14:380] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:04:19:559] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第3个人员添加完成了
+
+[2019-05-06 17:04:25:116] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:04:25:485] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:04:26:942] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:04:27:333] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:04:27:845] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:04:28:361] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:04:28:976] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:04:29:442] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:04:36:195] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:04:39:367] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:04:44:498] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第4个人员添加完成了
+
+[2019-05-06 17:04:49:976] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:04:50:371] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:04:51:809] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:04:52:207] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:04:52:740] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:04:53:188] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:04:53:808] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:04:54:275] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:05:01:009] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:05:04:190] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:05:09:351] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第5个人员添加完成了
+
+[2019-05-06 17:05:14:825] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:05:15:212] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:05:16:639] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:05:17:016] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:05:17:518] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:05:17:988] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:05:18:608] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:05:19:240] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:05:25:957] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:05:29:183] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:05:34:343] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第6个人员添加完成了
+
+[2019-05-06 17:05:39:802] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:05:40:190] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:05:41:606] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:05:41:986] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:05:42:488] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:05:42:948] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:05:43:527] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:05:44:017] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:05:50:772] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:05:53:961] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:05:59:123] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第7个人员添加完成了
+
+[2019-05-06 17:06:04:580] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:06:04:937] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:06:06:293] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:06:06:664] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:06:07:112] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:06:07:572] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:06:08:092] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:06:08:594] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:06:15:027] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:06:18:228] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:06:23:417] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第8个人员添加完成了
+
+[2019-05-06 17:06:28:828] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:06:29:185] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:06:30:560] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:06:30:916] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:06:31:324] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:06:31:730] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:06:32:210] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:06:32:738] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:06:39:198] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:06:42:413] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:06:47:636] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第9个人员添加完成了
+
+[2019-05-06 17:06:53:114] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:06:53:473] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:06:54:924] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:06:55:291] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:06:55:747] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:06:56:163] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:06:56:695] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:06:57:215] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:07:03:721] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:07:06:909] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:07:12:078] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第10个人员添加完成了
+
+[2019-05-06 17:07:17:549] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:07:17:914] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:07:19:319] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:07:19:678] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:07:20:066] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:07:20:520] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:07:21:034] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:07:21:599] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:07:28:027] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:07:31:163] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:07:36:290] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第11个人员添加完成了
+
+[2019-05-06 17:07:41:716] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:07:42:060] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:07:43:438] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:07:43:809] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:07:44:240] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:07:44:669] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:07:45:193] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:07:45:762] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:07:52:192] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:07:55:390] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-06 17:08:00:559] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.testCases.HmcjTest --> testWfcjWay >-- ◆◆◆ --> 第12个人员添加完成了
+
+[2019-05-06 17:08:06:019] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneRyfl >-- ◆◆◆ --> 选择一个人员分类
+
+[2019-05-06 17:08:06:379] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputXm >-- ◆◆◆ --> 输入姓名
+
+[2019-05-06 17:08:07:756] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneZjlx >-- ◆◆◆ --> 选择一个证件类型
+
+[2019-05-06 17:08:08:130] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doInputZjh >-- ◆◆◆ --> 输入证件号
+
+[2019-05-06 17:08:08:528] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneXb >-- ◆◆◆ --> 选择一个性别
+
+[2019-05-06 17:08:08:981] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectCsrq >-- ◆◆◆ --> 选择一个出生日期
+
+[2019-05-06 17:08:09:606] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneGj >-- ◆◆◆ --> 选择一个国籍
+
+[2019-05-06 17:08:10:150] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSelectOneMz >-- ◆◆◆ --> 选择一个民族
+
+[2019-05-06 17:08:16:642] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doWfcjWay >-- ◆◆◆ --> 选择一个无法采集
+
+[2019-05-06 17:08:19:769] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.services.impl.HmcjImpl --> doSubmit >-- ◆◆◆ --> 点击提交按钮
+
+[2019-05-08 10:13:48:433] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-08 10:13:48:654] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-08 10:13:53:258] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 登录失败forEmptyTips测试异常...
+
+[2019-05-08 10:13:54:198] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:13:54:316] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:13:54:317] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:13:54:318] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 开始登录了...
+
+[2019-05-08 10:13:54:319] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 登录失败了...
+
+[2019-05-08 10:13:54:323] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:13:54:324] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:13:54:324] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:13:54:326] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 开始测试无法采集方式了。。。
+
+[2019-05-08 10:13:54:334] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 开始测试虹膜识别了。。。
+
+[2019-05-08 10:13:54:892] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:13:55:169] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:13:55:270] [INFO ] [method:com.sunjian.utils.MyLog.log(MyLog.java:16)]
+com.sunjian.utils.MyLog --< log >-- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-08 10:28:46:502] [INFO ][2019-05-08 10:28:46:571] [INFO ][2019-05-08 10:28:48:150] [INFO ][2019-05-08 10:28:48:927] [INFO ][2019-05-08 10:28:48:953] [INFO ][2019-05-08 10:28:48:953] [INFO ][2019-05-08 10:28:48:954] [INFO ][2019-05-08 10:28:48:955] [INFO ][2019-05-08 10:28:48:959] [INFO ][2019-05-08 10:28:48:960] [INFO ][2019-05-08 10:28:48:960] [INFO ][2019-05-08 10:28:48:961] [INFO ][2019-05-08 10:28:48:968] [INFO ][2019-05-08 10:28:49:264] [INFO ][2019-05-08 10:28:49:500] [INFO ][2019-05-08 10:28:49:582] [INFO ][2019-05-08 10:30:06:866] [INFO ]
+
+com.sunjian.testCases.LoginTest --< beforeMethod >-- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-08 10:30:06:947] [INFO ] com.sunjian.testCases.LoginTest --< testLoginFailed >-- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-08 10:30:08:515] [INFO ]
+com.sunjian.testCases.LoginTest --< testLoginFailed >-- ◆◆◆ --> 登录失败forEmptyTips测试异常...
+
+[2019-05-08 10:30:09:327] [INFO ]
+com.sunjian.utils.TestComplate --< complate >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:30:09:352] [INFO ]
+com.sunjian.utils.TestComplate --< complate >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:30:09:352] [INFO ]
+com.sunjian.utils.TestComplate --< clearTestResultFile >-- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:30:09:353] [INFO ]
+com.sunjian.testCases.LoginTest -- testLogin -- 23 -- ◆◆◆ --> 开始登录了...
+
+[2019-05-08 10:30:09:354] [INFO ]
+com.sunjian.testCases.LoginTest --< testLogin >-- ◆◆◆ --> 登录失败了...
+
+[2019-05-08 10:30:09:358] [INFO ]
+com.sunjian.utils.TestComplate --< complate >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:30:09:358] [INFO ]
+com.sunjian.utils.TestComplate --< complate >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:30:09:358] [INFO ]
+com.sunjian.utils.TestComplate --< clearTestResultFile >-- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:30:09:360] [INFO ]
+com.sunjian.testCases.HmcjTest --< testWfcjWay >-- ◆◆◆ --> 开始测试无法采集方式了。。。
+
+[2019-05-08 10:30:09:367] [INFO ]
+com.sunjian.testCases.HmsbTest --< testHmsb >-- ◆◆◆ --> 开始测试虹膜识别了。。。
+
+[2019-05-08 10:30:09:684] [INFO ]
+com.sunjian.utils.TestComplate --< complate >-- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:30:12:969] [INFO ]
+com.sunjian.utils.TestComplate --< complate >-- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:30:13:087] [INFO ]
+com.sunjian.utils.TestComplate --< clearTestResultFile >-- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-08 10:34:57:137] [INFO ]
+com.sunjian.testCases.LoginTest -- beforeMethod -- 20 --  -- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-08 10:34:57:207] [INFO ]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 57 --  -- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-08 10:34:58:756] [INFO ]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 61 --  -- ◆◆◆ --> 登录失败forEmptyTips测试异常...
+
+[2019-05-08 10:34:59:545] [INFO ]
+com.sunjian.utils.TestComplate -- complate -- 13 --  -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:34:59:570] [INFO ]
+com.sunjian.utils.TestComplate -- complate -- 16 --  -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:34:59:570] [INFO ]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 --  -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:34:59:571] [INFO ]
+com.sunjian.testCases.LoginTest -- testLogin -- 25 --  -- ◆◆◆ --> 开始登录了...
+
+[2019-05-08 10:34:59:572] [INFO ]
+com.sunjian.testCases.LoginTest -- testLogin -- 30 --  -- ◆◆◆ --> 登录失败了...
+
+[2019-05-08 10:34:59:575] [INFO ]
+com.sunjian.utils.TestComplate -- complate -- 13 --  -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:34:59:576] [INFO ]
+com.sunjian.utils.TestComplate -- complate -- 16 --  -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:34:59:576] [INFO ]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 --  -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:34:59:577] [INFO ]
+com.sunjian.testCases.HmcjTest -- testWfcjWay -- 21 --  -- ◆◆◆ --> 开始测试无法采集方式了。。。
+
+[2019-05-08 10:34:59:583] [INFO ]
+com.sunjian.testCases.HmsbTest -- testHmsb -- 16 --  -- ◆◆◆ --> 开始测试虹膜识别了。。。
+
+[2019-05-08 10:34:59:873] [INFO ]
+com.sunjian.utils.TestComplate -- complate -- 13 --  -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:35:00:286] [INFO ]
+com.sunjian.utils.TestComplate -- complate -- 16 --  -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:35:00:391] [INFO ]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 58 --  -- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-08 10:37:14:212] [INFO]
+com.sunjian.testCases.LoginTest -- beforeMethod -- 20 -- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-08 10:37:14:283] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 57 -- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-08 10:37:15:847] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 61 -- ◆◆◆ --> 登录失败forEmptyTips测试异常...
+
+[2019-05-08 10:37:16:673] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:37:16:700] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:37:16:700] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:37:16:701] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 25 -- ◆◆◆ --> 开始登录了...
+
+[2019-05-08 10:37:16:702] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 30 -- ◆◆◆ --> 登录失败了...
+
+[2019-05-08 10:37:16:706] [ INFO ]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:37:16:707] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:37:16:707] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 10:37:16:709] [INFO]
+com.sunjian.testCases.HmcjTest -- testWfcjWay -- 21 -- ◆◆◆ --> 开始测试无法采集方式了。。。
+
+[2019-05-08 10:37:16:718] [INFO]
+com.sunjian.testCases.HmsbTest -- testHmsb -- 16 -- ◆◆◆ --> 开始测试虹膜识别了。。。
+
+[2019-05-08 10:37:17:007] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 10:37:18:265] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 10:37:18:370] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 58 -- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-08 11:01:28:872] [INFO]
+com.sunjian.testCases.LoginTest -- beforeMethod -- 20 line -- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-08 11:01:28:943] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 57 line -- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-08 11:01:30:543] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 61 line -- ◆◆◆ --> 登录失败forEmptyTips测试异常...
+
+[2019-05-08 11:01:31:327] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:01:31:353] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:01:31:353] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 line -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 11:01:31:359] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 25 line -- ◆◆◆ --> 开始登录了...
+
+[2019-05-08 11:01:31:359] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 30 line -- ◆◆◆ --> 登录失败了...
+
+[2019-05-08 11:01:31:364] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:01:31:364] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:01:31:364] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 line -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 11:01:31:657] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:01:31:909] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:01:32:011] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 58 line -- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-08 11:03:53:609] [INFO]
+com.sunjian.testCases.LoginTest -- beforeMethod -- 20 line -- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-08 11:03:53:681] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 56 line -- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-08 11:03:55:205] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 60 line -- ◆◆◆ --> 登录失败forEmptyTips测试异常...
+
+[2019-05-08 11:03:55:990] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:03:56:017] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:03:56:017] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 line -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 11:03:56:023] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 25 line -- ◆◆◆ --> 开始登录了...
+
+[2019-05-08 11:03:56:023] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 30 line -- ◆◆◆ --> 登录失败了...
+
+[2019-05-08 11:03:56:029] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:03:56:029] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:03:56:029] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 line -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 11:03:56:322] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:03:56:637] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:03:56:752] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 58 line -- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+
+[2019-05-08 11:07:21:834] [INFO]
+com.sunjian.testCases.LoginTest -- beforeMethod -- 20 line -- ◆◆◆ --> 打开浏览器了...
+
+[2019-05-08 11:07:21:906] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 57 line -- ◆◆◆ --> 用户名：,密码：
+
+[2019-05-08 11:07:23:477] [INFO]
+com.sunjian.testCases.LoginTest -- testLoginFailed -- 61 line -- ◆◆◆ --> 登录失败forEmptyTips测试异常...
+
+[2019-05-08 11:07:24:298] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:07:24:323] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:07:24:323] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 line -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 11:07:24:328] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 25 line -- ◆◆◆ --> 开始登录了...
+
+[2019-05-08 11:07:24:329] [INFO]
+com.sunjian.testCases.LoginTest -- testLogin -- 30 line -- ◆◆◆ --> 登录失败了...
+
+[2019-05-08 11:07:24:333] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:07:24:334] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:07:24:334] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 79 line -- ◆◆◆ --> 没有生成测试报告文件...
+
+[2019-05-08 11:07:24:612] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 13 line -- ◆◆◆ --> 退出浏览器了...
+
+[2019-05-08 11:07:24:914] [INFO]
+com.sunjian.utils.TestComplate -- complate -- 16 line -- ◆◆◆ --> 邮件发送了...
+
+[2019-05-08 11:07:25:010] [INFO]
+com.sunjian.utils.TestComplate -- clearTestResultFile -- 58 line -- ◆◆◆ --> 报告已经帮你备份到test-outputs-old目录下了
+

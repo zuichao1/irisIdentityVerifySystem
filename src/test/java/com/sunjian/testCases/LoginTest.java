@@ -25,6 +25,7 @@ public class LoginTest {
 		MyLog.log("开始登录了...");
 		boolean flag = false;
 		try {
+			MyLog.log("用户名："+username+",密码："+password);
 			flag = login.doLogin(url,username, password);
 		}catch (Exception e){
 			MyLog.log("登录失败了...");

@@ -14,7 +14,7 @@ public class HmsbTest {
    
 	@Test(groups="hmsb",dependsOnGroups="login",description="虹膜识别测试",priority=3)
 	public void testHmsb() throws Exception{
-		MyLog.log("开始测试虹膜识别了。。。");
+		MyLog.log("开始测试虹膜识别了...");
 		String hyjg = "";
 		boolean flag = false;
 		try {

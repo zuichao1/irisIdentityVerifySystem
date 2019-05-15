@@ -18,7 +18,7 @@ public class HmcjTest {
 	@Test(groups="hmcj",dependsOnGroups="login",description="无法采集方式测试",priority=1)
 	@Parameters({"num"})
 	public void testWfcjWay(int num) throws Exception{
-		MyLog.log("开始测试无法采集方式了。。。");
+		MyLog.log("开始测试无法采集方式了...");
 		
 		hmcj = new HmcjImpl(Browsers.driver);
 		//进入虹膜采集
@@ -34,7 +34,7 @@ public class HmcjTest {
 				MyLog.log("第"+(i+1)+"个人员添加完成了");
 			}
 		} catch (Exception e) {
-			MyLog.log("无法采集方式--出错了。。。");
+			MyLog.log("无法采集方式--出错了...");
 			e.printStackTrace();
 			TestComplate.complate();
 		} finally {
@@ -46,7 +46,7 @@ public class HmcjTest {
 	@Test(groups="hmcj2",dependsOnGroups="login",description="虹膜采集方式测试",priority=2)
 	@Parameters({"num2"})
 	public void testHmcjWay(@Optional("1")int num2) throws Exception{
-		MyLog.log("开始测试虹膜采集方式了。。。");
+		MyLog.log("开始测试虹膜采集方式了...");
 		
 //		if (hmcj.kscjIsDisplay() == false) {			
 //			//进入虹膜采集
@@ -63,7 +63,7 @@ public class HmcjTest {
 				MyLog.log("第"+(i+1)+"个人员添加完成了");
 			}
 		} catch (Exception e) {
-			MyLog.log("虹膜采集方式--出错了。。。");
+			MyLog.log("虹膜采集方式--出错了...");
 			e.printStackTrace();
 			TestComplate.complate();
 		} finally {

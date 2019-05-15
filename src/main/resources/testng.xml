@@ -4,10 +4,10 @@
 	<test name="testCaseSuite1" preserve-order="true">
 		<!-- 登录地址、用户名、密码、注册人员数 -->
 		<parameter name="url" value="http://10.2.1.224:25668"/>
-		<parameter name="username" value="sunjian1"/>
-		<parameter name="password" value="123456"/>
-		<parameter name="num" value="100"/><!-- 无法采集 -->
-		<parameter name="num2" value="1"/><!-- 虹膜采集 -->
+		<parameter name="username" value="sunjian9"/>
+		<parameter name="password" value="sunjian9"/>
+		<parameter name="num" value="1000"/><!-- 无法采集 -->
+		<parameter name="nu m2" value="1"/><!-- 虹膜采集 -->
 
 		<classes>
 			<class name="com.sunjian.testCases.LoginTest">
@@ -24,7 +24,7 @@
 			</class>
 			<class name="com.sunjian.testCases.HmsbTest">
 				<methods>
-					<include name="testHmsb"/>
+					<exclude name="testHmsb"/>
 				</methods>
 			</class>
 		</classes>

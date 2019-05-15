@@ -58,8 +58,9 @@ public class HmcjImpl extends HmcjPage implements Hmcj {
         MyWait.threadWait(2);
         ryfl_button().click();//点击人员分类的下拉按钮
         MyWait.threadWait(1);
-        ryfl().click();
         MyLog.log("选择一个人员分类");
+        ryfl().click();
+        MyLog.log("人员分类选择成功");
     }
     private void doSelectOneZjlx() throws Exception {//选择一个证件类型
 //        MyWait.showTypeWait2(driver, 3, zjlx_button_str());
@@ -163,8 +164,9 @@ public class HmcjImpl extends HmcjPage implements Hmcj {
     public void doClickQd() throws Exception{//采集成功后，点击确定
         MyWait.threadWait(5);
         //MyWait.showTypeWait2(driver, 5, qd_str());
-        if(qd().isDisplayed() || qd().isEnabled()){
+        if(qd().isDisplayed() && qd().isEnabled()){
             doUseJsClickEelment(qd());
+            MyLog.log("点击确定按钮");
         }else {
             MyLog.log("提交后没有返回结果，找不到确定按钮");
         }

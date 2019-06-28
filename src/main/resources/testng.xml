@@ -3,10 +3,10 @@
 <suite name="Iris Verify System">
 	<test name="testCaseSuite1" preserve-order="true">
 		<!-- 登录地址、用户名、密码、注册人员数 -->
-		<parameter name="url" value="http://10.2.1.96:25557"/>
-		<parameter name="username" value="admin"/>
-		<parameter name="password" value="admin"/>
-		<parameter name="num" value="50"/><!-- 无法采集 -->
+		<parameter name="url" value="http://10.2.1.224:25668"/>
+		<parameter name="username" value="sunjian"/>
+		<parameter name="password" value="1234qwer"/>
+		<parameter name="num" value="500"/><!-- 无法采集 -->
 		<parameter name="num2" value="1"/><!-- 虹膜采集 -->
 
 		<classes>
